@@ -26,7 +26,7 @@
   <!-- Needed for .NET Framework RUNTIME OLDER THAN 4.6 -->
   <ItemGroup>
     <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleToAttribute">
-      <_Parameter1>MonoMod.Utils.Cil.ILGeneratorProxy</_Parameter1>
+      <_Parameter1>MonoMod.Utils.Cil.ILGeneratorProxy, PublicKey=002400000480000094000000060200000024000052534131000400000100010081142c1b1835f7308d603f2e870a331179b35746e04beb0d59c4fa2ae47d988162889850950903f33e58680e0a2f53981471dbad2f60b4e16e3ed8fa02808f71dc40b589096eccff8746d44a5a1340f600bee52b17b39e7cafd7b6c1cbd3220d08f8af07e5777a2de6107e8b6a7ff236c2e8db1f2aacfe54f1fe5b73b23a94c0</_Parameter1>
     </AssemblyAttribute>
   </ItemGroup>
 </Project>
