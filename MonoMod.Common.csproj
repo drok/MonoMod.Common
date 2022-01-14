@@ -13,6 +13,8 @@
     <OutputType>Library</OutputType>
 
     <MonoModSharedShims Condition="'$(MonoModSharedShims)' == ''">false</MonoModSharedShims>
+
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <Import Project="..\MonoMod.Common.props" />
 
